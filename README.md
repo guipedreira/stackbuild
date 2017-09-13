@@ -1,1 +1,3 @@
-Let's do dis.
+$ export GOPATH=${PWD}
+$ go get .
+$ go run parser.go test.yml
